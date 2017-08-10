@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+	<title>
+	
+	</title>
+	<style type="text/css";
+	header{
+	background-color: #333;
+	color: #fff
+	}
+</head>
+
+<body>
+
+<header>Aqui en encabezado de mi pagina html5 </header>
+
+</body>
+
+</html>
