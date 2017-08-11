@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+	<head>
+		<title>
+	
+		</title>
+	
+	</head>
+	<body>
+		<canvas id="miCanvas" width="300"> 
+		tu navegador no soporta html5
+		</canvas>
+		<script type = "text/javascript" charset="utf-8">
+		var canvas = document.getElementById("miCanvas");
+		var ctx = canvas.getContext("2d");
+		ctx.fillRect(0,0,20,20);
+		</script>
+	</body>
+
+</html>

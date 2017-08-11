@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+	<head>
+		<title>
+	
+		</title>
+	
+	</head>
+	<body>
+	<details>
+		<summary> info </summary>
+		aqui los detalles
+		</details>
+	</body>
+
+</html>

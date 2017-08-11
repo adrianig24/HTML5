@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+	<head>
+		<title>
+	
+		</title>
+	
+	</head>
+	<body>
+		
+			<article>
+			mensaje principal
+			<aside> 
+			widget, x ejemplo dale a me gusta...
+			</aside>
+			
+			</article>
+
+	</body>
+
+</html>

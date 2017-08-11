@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+	<head>
+		<title>
+	
+		</title>
+	
+	</head>
+	<body>
+	<input list =canalesYoutube"/>
+	<datalist id="canalesYoutube">
+		<opcion value="opcion1"/>
+		<opcion value="opcion2"/>
+		<opcion value="opcion3"/>
+	</datalist>
+	</body>
+
+</html>
