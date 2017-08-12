@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+	<head>
+		<title>
+	
+		</title>
+	
+	</head>
+	<body>
+		<p> la hora es: <time> 8:00 </time> </p>
+		<time datatime="2011-11-17" pubdate> 8:00 </time>
+	</body>
+
+</html>

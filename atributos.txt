@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+	<head>
+		<title>
+	
+		</title>
+	
+	</head>
+	<body>
+		draggable //si la etiqueta se puede trasladar
+		contenteditable //editar texto
+		hidden
+		spellcheck // revisa ortografia
+	</body>
+
+</html>
